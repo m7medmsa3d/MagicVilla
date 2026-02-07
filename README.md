@@ -1,3 +1,4 @@
+Magic Villa - (Asp .Net Core RESTful Web API)
 Tech Stack : .NET API, .NET Core MVC, SQL, Entity Framework, Linq, HTML5, CSS, JavaScript, Bootstrap v5
 • Developed a villa rental management system with .NET 8 Web API, featuring RESTful architecture, CRUD
 operations, image upload, advanced booking, and versioned endpoints.
